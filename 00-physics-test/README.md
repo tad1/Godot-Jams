@@ -7,7 +7,7 @@ I found myself interested in shaders in Godot. It has an excellent editor for sh
 
 #### Learned:
 I already had an experience with 2D physics systems (Godot, Unity) and 3D physics in Unity.\
-3D physics is relatively easy once you understand 2D physics components (i.e., Rigid Body, Collision Shape, Area).
+3D physics is relatively easy once you understand 2D physics components (i.e. Rigid Body, Collision Shape, Area).
 
 
 #### Preview:
